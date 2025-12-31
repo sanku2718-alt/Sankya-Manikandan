@@ -1,0 +1,14 @@
+LEVEL 5 → LEVEL 6
+
+Goal: Get the password for bandit6
+
+Steps:
+
+cd inhere
+find . -type f -size 1033c
+cat ./maybehere07/.file2
+
+
+Result:
+The file with size 1033 bytes contains the password for bandit6.
+PASSWORD : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
