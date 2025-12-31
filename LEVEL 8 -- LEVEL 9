@@ -1,0 +1,12 @@
+LEVEL 8 → LEVEL 9
+
+Goal: Get the password for bandit9
+
+Steps:
+
+sort data.txt | uniq -u
+
+
+Result:
+The unique line shows the password for bandit
+PASSWORD :4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
