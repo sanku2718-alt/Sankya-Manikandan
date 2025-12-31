@@ -1,0 +1,13 @@
+LEVEL 7 → LEVEL 8
+
+Goal: Get the password for bandit8
+
+Steps:
+
+ls
+cat data.txt | grep millionth
+
+
+Result:
+The line containing “millionth” has the password for bandit8.
+PASSWORD : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
