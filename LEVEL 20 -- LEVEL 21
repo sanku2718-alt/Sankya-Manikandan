@@ -1,0 +1,6 @@
+Level 20 → Level 21:
+
+There’s a program that connects to a port and sends a password.
+You make it talk to a listener you control, give it the current password,
+and it replies back with the password for bandit21.
+PASSWORD : EeoULMCra2q0dSkYj561DX7s1CpBuOBt
