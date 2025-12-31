@@ -1,0 +1,25 @@
+LEVEL 0 → LEVEL 1
+Goal
+
+Find the password for bandit1.
+
+Steps I followed
+
+After logging into the server as bandit0, I listed the files in the current directory.
+
+ls
+
+
+From the output, I noticed a file named readme.
+
+This file contains the password for the next level.
+To read the file, I used:
+
+cat readme
+
+Result
+
+The readme file displays the password for bandit1.
+
+I saved this password and used it to log in to the next level.
+Password :ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
