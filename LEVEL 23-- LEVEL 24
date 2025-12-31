@@ -1,0 +1,6 @@
+evel 23 → Level 24:
+
+A cron job runs a script using your username.
+You trick it by creating a script with that name so it runs your code.
+When it runs, it reads the password file and saves the password for bandit24.
+PASSWORD : gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
