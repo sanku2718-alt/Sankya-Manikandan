@@ -1,0 +1,16 @@
+LEVEL 15 -> LEVEL 16
+
+Goal: Get the password for bandit16
+
+
+Steps:
+
+ssh bandit15@bandit.labs.overthewire.org -p 2220
+openssl s_client -connect localhost:30001
+<enter password_from_bandit15>
+
+
+Result:
+The SSL service on port 30001 returns the password for bandit16
+
+PASSWORD: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
