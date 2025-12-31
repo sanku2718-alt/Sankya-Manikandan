@@ -1,0 +1,6 @@
+Level 16 → Level 17:
+
+You scan the local ports to find which one is running an SSL service.
+When you connect to the correct port and enter the password, it gives you a private SSH key.
+You use that key to log in as bandit17.
+PASSWORD : x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
