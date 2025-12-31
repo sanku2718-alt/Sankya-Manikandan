@@ -1,0 +1,6 @@
+Level 18 → Level 19:
+
+When you try to log in normally, it logs you out immediately.
+So you run a command while logging in to read the password file directly.
+That output gives you the password for bandit19.
+PASSWORD :  cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
