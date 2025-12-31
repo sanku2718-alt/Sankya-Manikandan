@@ -1,0 +1,16 @@
+LEVEL 13 -> LEVEL 14
+
+Goal: Get the password for bandit14
+
+
+Steps:
+
+ssh -i sshkey.private bandit14@localhost
+cat /etc/bandit_pass/bandit14
+
+
+Result:
+The private SSH key allows login as bandit14 and reveals the password
+
+PASSWORD:  MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+
