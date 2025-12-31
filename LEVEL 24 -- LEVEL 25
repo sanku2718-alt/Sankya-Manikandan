@@ -1,0 +1,4 @@
+You have to guess a 4‑digit PIN while sending the current password to a service.
+You automate the guesses so it tries all PINs quickly.
+When the correct PIN is hit, it returns the password for bandit25.
+PASSWORD : iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
