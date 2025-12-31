@@ -1,0 +1,14 @@
+LEVEL 1 -- LEVEL 2
+LEVEL 1 → LEVEL 2
+
+Goal: Get the password for bandit2
+
+Steps:
+
+ls
+cat ./-
+
+
+Result:
+The file named - contains the password for bandit2.
+Password :  263JGJPfgU6LtdEvgfWU1XP5yac29mFx
