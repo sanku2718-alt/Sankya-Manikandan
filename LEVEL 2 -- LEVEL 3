@@ -1,0 +1,13 @@
+LEVEL 2 -- LEVEL 3
+
+Goal: Get the password for bandit3
+
+Steps:
+
+ls
+cat spaces\ in\ this\ filename
+
+
+Result:
+The file with spaces in its name contains the password for bandit3.
+PASSWORD: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
