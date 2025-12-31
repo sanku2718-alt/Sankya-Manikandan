@@ -1,0 +1,14 @@
+LEVEL 11 -> LEVEL 12
+
+Goal: Get the password for bandit12
+
+
+Steps:
+
+cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
+
+Result:
+The ROT13-decoded text shows the password for bandit12
+
+PASSWORD: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
