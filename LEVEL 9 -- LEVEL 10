@@ -1,0 +1,12 @@
+LEVEL 9 → LEVEL 10
+
+Goal: Get the password for bandit10
+
+Steps:
+
+strings data.txt | grep '='
+
+
+Result:
+The line with = contains the password for bandit10.
+PASSWORD : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
