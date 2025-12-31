@@ -1,0 +1,5 @@
+Level 21 → Level 22:
+
+There’s a scheduled job that runs automatically.
+You check what it does and see where it stores the password.
+Reading that file gives you the password for bandit22.
