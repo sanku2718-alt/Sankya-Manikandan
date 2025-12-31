@@ -1,0 +1,15 @@
+LEVEL 3 → LEVEL 4
+
+Goal: Get the password for bandit4
+
+Steps:
+
+ls
+cd inhere
+ls -a
+cat .hidden
+
+
+Result:
+The hidden file contains the password for bandit4.
+PASSWORD : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
