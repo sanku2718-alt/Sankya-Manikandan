@@ -1,0 +1,11 @@
+  Goal: Get the password for bandit7
+
+Steps:
+
+find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+cat /var/lib/dpkg/info/bandit7.password
+
+
+Result:
+The matching file contains the password for bandit7.
+PASSWORD : morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
