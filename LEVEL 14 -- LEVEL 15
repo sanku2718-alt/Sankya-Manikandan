@@ -1,0 +1,15 @@
+LEVEL 14 -> LEVEL 15
+
+Goal: Get the password for bandit15
+
+
+Steps:
+
+ssh bandit14@bandit.labs.overthewire.org -p 2220
+echo "password_from_bandit14" | nc localhost 30000
+
+
+Result:
+The service on port 30000 returns the password for bandit15
+
+PASSWORD:8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
