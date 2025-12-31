@@ -1,0 +1,15 @@
+LEVEL 4 → LEVEL 5
+
+Goal: Get the password for bandit5
+
+Steps:
+
+cd inhere
+ls
+file ./*
+cat ./-file07
+
+
+Result:
+The human-readable file contains the password for bandit5.
+PASSWORD :  4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
