@@ -1,0 +1,37 @@
+LEVEL 12 -> LEVEL 13
+
+Goal: Get the password for bandit13
+
+
+Steps:
+
+mkdir /tmp/bandit12
+cp data.txt /tmp/bandit12
+cd /tmp/bandit12
+xxd -r data.txt > data
+file data
+mv data data.gz
+gzip -d data.gz
+file data
+mv data data.bz2
+bzip2 -d data.bz2
+file data
+mv data data.gz
+gzip -d data.gz
+file data
+tar -xf data
+file data5.bin
+tar -xf data5.bin
+file data6.bin
+bzip2 -d data6.bin
+file data6.bin.out
+tar -xf data6.bin.out
+file data8.bin
+gzip -d data8.bin
+cat data8
+
+
+Result:
+The final extracted file shows the password for bandit13
+
+PASSWORD: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
