@@ -1,0 +1,16 @@
+LEVEL 0
+Goal
+
+The goal of this level is to log in to the Bandit server using SSH with the given username and password.
+
+Steps I followed
+
+We are given the username, password, server address, and port number.
+Using these details, we connect to the server through SSH.
+
+Run this command in the terminal:
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+
+When it asks for the password, enter the given password for bandit0.
